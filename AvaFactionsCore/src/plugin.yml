@@ -1,0 +1,8 @@
+main: me.atoms.Main
+name: AvaFactionsCore
+version: 1.0b
+api-version: 1.16
+author: ItzAtoms
+commands:
+   present:
+      description: Create present
